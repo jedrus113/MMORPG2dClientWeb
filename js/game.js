@@ -127,7 +127,8 @@ var WorldScene = new Phaser.Class({
         // shake the world
         this.cameras.main.shake(300);
         
-        // start battle 
+        // start battle
+
     },
     update: function (time, delta)
     {
